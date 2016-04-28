@@ -1,0 +1,2 @@
+Reference::
+http://www.monitis.com/blog/2011/07/09/6-node-js-recipes-working-with-the-file-system

@@ -1,0 +1,11 @@
+{
+  "author": "Hamzeen H <hamzeen@gmail.com>",
+  "bin": "hello.js",
+  "bugs": {
+    "url": "https://github.com/tallesl/deadsimplelog/issues"
+  },
+  "dependencies": {
+    "commonmark": "^0.25.0",
+    "fs-extra": "^0.29.0"
+  }
+}
